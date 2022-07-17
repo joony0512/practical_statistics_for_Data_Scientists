@@ -6,3 +6,5 @@ to review python codes
 
 2022/07월 시작 
 두번째 스터디
+
+원본데이터 https://github.com/gedeck/practical-statistics-for-data-scientists/tree/master/data
